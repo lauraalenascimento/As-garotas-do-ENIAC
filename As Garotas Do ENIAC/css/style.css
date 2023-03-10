@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#C8B6A6 ;
+}
+.cabeçalho{
+    background: #8D7B68;
+    padding: 30px;;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.text-center{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    
+}
+
+.img-school{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.img-eniac{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+   
+}
+.img-eniac-01{
+    margin: 10px;
+}
+
+.eniac{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Marlyn{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.betty{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+}
+
+.Ruth{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+.Kay{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+.Jean{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+.Frances{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
